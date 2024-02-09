@@ -5,6 +5,7 @@ Dashboard:
 
 ![Diabetes Prediction Dashboard](https://github.com/Khushbooo123/Diabetes-Prediction/assets/52238176/da3a21f9-dcf8-4ba3-adb4-048fc857019e)
 
+Assessment: [Diabetes Prediction Assessment.pptx](https://github.com/Khushbooo123/Diabetes-Prediction/files/14222706/Diabetes.Prediction.Assessment.pptx)
 
 Project Description:
 
