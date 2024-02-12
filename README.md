@@ -7,17 +7,17 @@ Dashboard:
 
 Assessment: [Diabetes Prediction Assessment.pptx](https://github.com/Khushbooo123/Diabetes-Prediction/files/14222706/Diabetes.Prediction.Assessment.pptx)
 
-Project Description:
+# Project Description:
 
 The Diabetes Prediction Assessment project by Psyliq aims to leverage SQL (Structured Query Language) for analyzing and predicting diabetes-related data. The project involves utilizing Microsoft Power BI for visualizing insights derived from the SQL database. Through this initiative, Psyliq aims to contribute to the field of healthcare by providing a predictive tool for diabetes assessment.
 
-Tools Used:
+# Tools Used:
 
 Microsoft Power BI: Used for creating interactive and insightful visualizations from the analyzed SQL data. Power BI facilitates the interpretation of data trends and patterns in a user-friendly manner.
 
 SQL (Structured Query Language): The backbone of the project, SQL is employed for database management, querying, and analysis. It enables efficient handling of diabetes-related data for predictive modeling.
 
-Goals:
+# Goals:
 
 Data Analysis: Leverage SQL to perform in-depth analysis of diabetes-related data, extracting meaningful insights and patterns.
 
